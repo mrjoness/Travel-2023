@@ -1,0 +1,1 @@
+Create a heatmap and transition diagram based on travel patterns. Notebook provides a walkthrough to read in data from a csv file (aggregated from google timeline data) to visualize my personal travel in 2023.
